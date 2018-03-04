@@ -1,1 +1,1 @@
-# coursera-how-to-win-a-data-science-competition
+# coursera how to win a data science competition
